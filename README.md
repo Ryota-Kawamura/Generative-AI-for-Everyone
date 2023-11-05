@@ -9,9 +9,9 @@ This course was created to ensure everyone can be a participant in our AI-powere
 ## Week 1: Introduction to Generative AI
 
 ### Learning Objectives:
-- Define Generative AI and illustrate how insights derived from supervised learning have enhanced our comprehension of Generative AI.
-- Identify the limitations and boundaries of Generative AI and apply practical techniques and strategies for creating prompts that enhance the quality and relevance of large language models (LLMs) responses.
-- List common use cases for Generative AI with writing, reading, and chatting tasks on web-based and software-based interfaces.
+- Define generative AI, including large language models (LLMs), and describe how supervised learning is used to train generative AI models to create high quality text and images.
+- List common use cases for generative AI including writing, reading, and chatting tasks for both web-UI and software-based implementations of LLMs.
+- Identify the limitations of LLMs and use practical techniques and strategies for writing better prompts to enhance the quality and relevance of an LLM’s responses.
 
 [Week 1 Test 1: What is Generative AI?](https://github.com/Ryota-Kawamura/Generative-AI-for-Everyone/blob/main/Week-1/Week-1_Test-1.md)
 
