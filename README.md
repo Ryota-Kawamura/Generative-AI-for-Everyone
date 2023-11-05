@@ -13,6 +13,6 @@ This course was created to ensure everyone can be a participant in our AI-powere
 - List common use cases for generative AI including writing, reading, and chatting tasks for both web-UI and software-based implementations of LLMs.
 - Identify the limitations of LLMs and use practical techniques and strategies for writing better prompts to enhance the quality and relevance of an LLM’s responses.
 
-[Week 1 Test 1: What is Generative AI?](https://github.com/Ryota-Kawamura/Generative-AI-for-Everyone/blob/main/Week-1/Week-1_Quiz-1.md)
+[Week 1 Quiz 1: What is Generative AI?](https://github.com/Ryota-Kawamura/Generative-AI-for-Everyone/blob/main/Week-1/Week-1_Quiz-1.md)
 
-[Week 1 Test 2: Generative AI Applications](https://github.com/Ryota-Kawamura/Generative-AI-for-Everyone/blob/main/Week-1/Week-1_Quiz-2.md)
+[Week 1 Quiz 2: Generative AI Applications](https://github.com/Ryota-Kawamura/Generative-AI-for-Everyone/blob/main/Week-1/Week-1_Quiz-2.md)
