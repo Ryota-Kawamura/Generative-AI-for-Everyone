@@ -22,7 +22,7 @@
 - [ ] This is false. So long as internal evaluation is done well, further monitoring is not necessary.
 - [x] In case customers say something that causes the chatbot to respond in an unexpected way, monitoring lets you discover problems and fix them.
 
-**5.** You are working on using an LLM to summarize research reports. Suppose an average report contains roughly 6,000 words. Approximately how many tokens would it take an LLM to process 6,000 input words? (Assume 1 token = 3/4 words, or equivalently, 1 word \approx 1.333 tokens
+**5.** You are working on using an LLM to summarize research reports. Suppose an average report contains roughly 6,000 words. Approximately how many tokens would it take an LLM to process 6,000 input words? (Assume 1 token = 3/4 words, or equivalently, 1 word \approx 1.333 tokens).
 - [ ] 4,500 tokens (6000 * 3/4)
 - [ ] 6,000 tokens
 - [x] 8,000 tokens (about 6000 * 1.333)
