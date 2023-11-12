@@ -16,3 +16,18 @@ This course was created to ensure everyone can be a participant in our AI-powere
 [Week 1 Quiz 1: What is Generative AI?](https://github.com/Ryota-Kawamura/Generative-AI-for-Everyone/blob/main/Week-1/Week-1_Quiz-1.md)
 
 [Week 1 Quiz 2: Generative AI Applications](https://github.com/Ryota-Kawamura/Generative-AI-for-Everyone/blob/main/Week-1/Week-1_Quiz-2.md)
+
+## Week 2: Generative AI Projects
+
+### Learning Objectives:
+- Describe the key phases in the lifecycle of a generative AI project.
+- Explore when to use more advanced techniques, like retrieval augmented generation (RAG), fine-tuning, and reinforcement learning from human feedback (RLHF), to customize or improve an LLMs performance.
+- Think through the cost considerations of using a cloud-based LLM to power software applications.
+
+[Week 2 App Item 1: Prompting an LLM in code](https://github.com/Ryota-Kawamura/Generative-AI-for-Everyone/blob/main/Week-2/GENAI4E_Activity1.ipynb)
+
+[Week 2 App Item 2: Reputation monitoring system](https://github.com/Ryota-Kawamura/Generative-AI-for-Everyone/blob/main/Week-2/GENAI4E_Activity2.ipynb)
+
+[Week 2 Quiz 1: Software Applications](https://github.com/Ryota-Kawamura/Generative-AI-for-Everyone/blob/main/Week-2/Week-2_Quiz-1.md)
+
+[Week 2 Quiz 2: Advanced technologies: Beyond prompting](https://github.com/Ryota-Kawamura/Generative-AI-for-Everyone/blob/main/Week-2/Week-2_Quiz-2.md)
