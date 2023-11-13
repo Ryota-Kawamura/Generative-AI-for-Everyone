@@ -31,3 +31,15 @@ This course was created to ensure everyone can be a participant in our AI-powere
 [Week 2 Quiz 1: Software Applications](https://github.com/Ryota-Kawamura/Generative-AI-for-Everyone/blob/main/Week-2/Week-2_Quiz-1.md)
 
 [Week 2 Quiz 2: Advanced technologies: Beyond prompting](https://github.com/Ryota-Kawamura/Generative-AI-for-Everyone/blob/main/Week-2/Week-2_Quiz-2.md)
+
+## Week 3: Generative AI in work and life
+
+### Learning Objectives:
+- Analyze workflows and determine new business opportunities that arise from generative AI’s potential to improve efficiency, productivity, and value generation.
+- Recognize that AI primarily automates tasks within jobs, not entire roles, and evaluate tasks for generative AI potential based on two key criteria: technical feasibility and business value.
+- Discuss the primary concerns that arise from the adoption of generative AI and LLMs, including job loss, the amplifying of humanity’s worst impulses, and human extinction.
+- List the principles of responsible AI, including fairness, transparency, privacy, security, and ethical use, and learn strategies to ensure ethical and socially responsible AI development and deployment.
+
+[Week 3 Quiz 1: Generative AI and business](https://github.com/Ryota-Kawamura/Generative-AI-for-Everyone/blob/main/Week-3/Week-3_Quiz-1.md)
+
+[Week 3 Quiz 2: Generative AI and society](https://github.com/Ryota-Kawamura/Generative-AI-for-Everyone/blob/main/Week-3/Week-3_Quiz-2.md)
